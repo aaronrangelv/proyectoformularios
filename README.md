@@ -4,6 +4,11 @@ avance al 98.5%.
 -Plantillas funcionales y conectadas a la base de datos.
 -Sistema operable.
 -Administrador de la base de datos operable.
+-Documentación de la base de datos.
+-Documentación del sistema.
+-Modelado.
+-Diseño general y preliminar.
+-Modelo E-R.
 
 Muñoz Plascencia Alejandra
 Sandoval Nuñez Fernanda
