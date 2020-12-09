@@ -1,5 +1,5 @@
 # avance 1 de proyecto integrador 
-avance al 45%.
+avance al 98.5%.
 -base de datos funcional.
 -Plantillas funcionales y conectadas a la base de datos.
 -Sistema operable.
